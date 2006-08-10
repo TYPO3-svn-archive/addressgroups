@@ -1,0 +1,8 @@
+plugin.tx_addressgroups_pi1 {
+	templatePath = fileadmin/templates/
+	defaultTemplateFileName = addressgroups_default.htm
+	pidList = 0
+	recursive = 0
+	sortByColumn = name
+	sortOrder = ASC
+}
